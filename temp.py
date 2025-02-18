@@ -10,17 +10,15 @@ def main():
 
     print("Hello, World!")
     name = input("Enter your name: ")
-    number = int(input("Enter a number to calculate its square: "))
+    print("Hello, " + name + "!")
     
     # Calculate the square
-    result = calculate_square(number)
 
 
     print("Hello, World!")
     
     # Print the results
     print(f"Hello {name}!")
-    print(f"The square of {number} is: {result}")
 
 if __name__ == "__main__":
     main()
