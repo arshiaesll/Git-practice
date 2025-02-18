@@ -6,11 +6,17 @@ def calculate_square(number):
 
 def main():
     # Get user input
+
+
+    print("Hello, World!")
     name = input("Enter your name: ")
     number = int(input("Enter a number to calculate its square: "))
     
     # Calculate the square
     result = calculate_square(number)
+
+
+    print("Hello, World!")
     
     # Print the results
     print(f"Hello {name}!")
