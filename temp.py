@@ -1,12 +1,17 @@
 def calculate_square(number):
     """
     Calculate the square of a given number
+
+    Added a new feature to calculate the square of a given number
+
     """
     return number * number
 
 def main():
     # Get user input
     name = input("Enter your name: ")
+
+
     number = int(input("Enter a number to calculate its square: "))
     
     # Calculate the square
