@@ -10,7 +10,6 @@ def main():
 
     print("Hello, World!")
     name = input("Enter your name: ")
-    print("Hello, " + name + "!")
     
     # Calculate the square
 
