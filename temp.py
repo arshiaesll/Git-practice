@@ -14,7 +14,6 @@ def main():
     # Calculate the square
 
 
-    print("Hello, World!")
     
     # Print the results
     print(f"Hello {name}!")
